@@ -2,5 +2,5 @@
 
 The following sections are optional:
 
-Random Forest Regression
-MNIST digits classification is optional.
+- Random Forest Regression
+- MNIST digits classification is optional.
