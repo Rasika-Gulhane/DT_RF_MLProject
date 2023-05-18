@@ -1,4 +1,5 @@
-# DT_RF_MLProject
+# DT_RF_MLProject_Regression
+
 Boston House Pricing
 
 The following sections are also covered:
